@@ -1,7 +1,7 @@
 def count_strings(array)
   results = []
   
-  array.filter
+  array.filter { |x| 
   # Return the total number of strings in the provided array using the count enumerable
 end
 
